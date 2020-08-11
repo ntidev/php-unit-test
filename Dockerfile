@@ -1,4 +1,4 @@
-FROM ntidev/php:7.4.6-fpm-buster
+FROM ntidev/php:7.1.30-fpm-stretch
 
 LABEL maintainer='Benjamin Vison <benjamin@syneteksolutions.com>'
 
